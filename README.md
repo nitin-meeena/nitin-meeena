@@ -1,7 +1,8 @@
+![logo](https://github.com/nitin-meeena/nitin-meeena/blob/main/BG.png)
+
 <h1 align="center">Hi 👋, I'm Nitin Meena</h1>
-![logo](https://github.com/nitin-meeena/nitin-meeena/blob/main/7.png)
+
 <h3 align="center">A passionate frontend developer from India</h3>
-![Banner](https://link-to-your-banner-image.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-meeena&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-meeena" /> </p>
 
