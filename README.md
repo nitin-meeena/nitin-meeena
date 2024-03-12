@@ -1,4 +1,4 @@
-![logo](https://github.com/nitin-meeena/nitin-meeena/blob/main/BG.png)
+![logo](https://github.com/nitin-meeena/nitin-meeena/blob/main/Bg.jpg)
 
 <h1 align="center">Hi 👋, I'm Nitin Meena</h1>
 
